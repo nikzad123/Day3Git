@@ -1,0 +1,11 @@
+package gitProject;
+
+public class PushPorject {
+	
+	public static void main(String args []) {
+		
+		System.out.println("Git Project to Push...");
+		
+	}
+
+}
