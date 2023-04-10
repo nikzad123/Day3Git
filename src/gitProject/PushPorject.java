@@ -7,5 +7,8 @@ public class PushPorject {
 		System.out.println("Git Project to Push...");
 		
 	}
+	public void addStush() {
+		System.out.println("add Stush...");
+	}
 
 }
