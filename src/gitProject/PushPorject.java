@@ -11,4 +11,7 @@ public class PushPorject {
 		System.out.println("add Stush...");
 	}
 
+	public void addPush() {
+		System.out.println("Push.....");
+	}
 }
